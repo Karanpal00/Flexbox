@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 7vh;
+}
+#container {
+    display: flex;
+    border: solid;
+    flex-wrap: wrap;
+    width: 1600px;
+    height: 1600px;
+}
+
+button {
+    background-color: blue;
+    margin: 24px;
+    padding: 24px 48px;
+    font-weight: bold;
+    font-size: xx-large;
+}
