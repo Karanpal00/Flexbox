@@ -1,22 +1,31 @@
 body {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     margin: 7vh;
+    background-color: gray;
+    justify-content: space-around;
 }
+
 #container {
     display: flex;
     border: solid;
     flex-wrap: wrap;
     width: 1600px;
     height: 1600px;
+    background-color: white;
 }
 
+p {
+    font-size: 108px;
+    font-weight: bold;
+    font-style: italic;
+    white-space: pre-wrap;
+}
 button {
-    background-color: blue;
+    background-color: white;
     margin: 24px;
     padding: 24px 48px;
     font-weight: bold;
     font-size: xx-large;
+    border-radius: 24px;
+    border-style:none;
 }
