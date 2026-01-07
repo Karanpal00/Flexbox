@@ -1,2 +1,2 @@
-# Flexbox
-Flexboxes using javscript.
+# FlexGrid
+Interactive Flexbox grid using javscript.
