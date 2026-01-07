@@ -1,2 +1,2 @@
 # FlexGrid
-Interactive Flexbox grid using javscript.
+Interactive Flexbox grid using javascript.
